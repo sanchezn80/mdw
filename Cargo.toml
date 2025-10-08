@@ -2,5 +2,8 @@
 name = "mdw"
 version = "0.1.0"
 edition = "2024"
+authors = ["Nicolas Sanchez <sanchezn@gmail.com>"]
+description = "MarkDown WYSIWYG: no jig when hiding tags, no beginning-line spaces dependent, no end-line spaces"
+license = "LGPL-3.0-only"
 
 [dependencies]
