@@ -14,3 +14,4 @@ Markdown Wysiwyg is a syntax close to MarkDown with two main differences :
 ### Formating tags (with open and close)
 - ` **` and `** `: bold text
 - ` _` and `_ `: italic text
+- ` ~~` and `~~ `: texte barré
