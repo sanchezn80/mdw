@@ -5,7 +5,7 @@ Markdown Wysiwyg is a syntax close to MarkDown with two main differences :
 
 ## Syntax
 ### Block tags
-- three back-quotes in begining of line starts a block of 
+- three back-quotes in begining of line starts a block of "code"
 ### Line tags
 - `- `, `-- `, `--- ` etc.: item of an enumeration, the number of dash is the level.
 - `1. `, `1.1. `, `1.1.1. ` etc. : item of a numbered list, with many levels.
